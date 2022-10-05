@@ -4,4 +4,4 @@ E2EE Chat app
 ### Run npm i in both terminal 
 ### run npm start in both terminal
 ### connect to server using NAME and ROOM 
-### Use ' ENTER ' to send message
+ Use ' ENTER ' to send message
